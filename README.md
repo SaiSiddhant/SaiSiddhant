@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python & Machine Learning projects.
 - 📫 How to reach me :
   - [LinkedIn](https://www.linkedin.com/in/sai-siddhant-pattanaik-48932b171/)
-  - Email - 'saisid777@gmail.com'
+  - Email - saisid777@gmail.com
 
 <!---
 SaiSiddhant/SaiSiddhant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
